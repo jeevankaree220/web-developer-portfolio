@@ -172,7 +172,7 @@ export default function Example() {
         <div className="relative h-64 flex items-center w-full sm:h-full md:h-full lg:absolute lg:inset-y-0 lg:right-0 lg:h-full lg:w-1/2 bg-yellow-50"> */}
           <img
             className="h-96 w-96 object-contain m-auto rounded-full "
-            src="~/images/jeevan.png"
+            src="/images/jeevan.png"
             alt=""
           />
 
